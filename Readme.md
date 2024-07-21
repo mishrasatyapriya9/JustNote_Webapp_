@@ -3,6 +3,32 @@ localstorage
 cloudinary -->
 
 <!-- open cloudinary in browser and setup it first for the projects  -->
-setting -> upload -> enable unsigned uploading ->add upload preset -> upload preset name(notezipper) -> Signining mode(Unsigned) ->save that
+#### to start the project 
 
-Dashboard -> click on mode ->Base delivery URL 
+#### 1- clone into your local using command 
+# git clone https://github.com/mishrasatyapriya9/Todo_Webapp_squbix
+## Navigate to the project directory:
+
+#### 2- For Backend (got to Backend Folder path in terminal) 
+# install dependencies using command 
+# npm install 
+
+# Environment Variables:
+
+ # Create a .env file in the backend directory and add your MongoDB URI and any other necessary environment variables.
+
+# npm start 
+#### 3 - For frontend (got to Fronted Folder path in terminal)
+#  npm install
+# npm run dev
+
+### All the detailed documentation(API DOCUMENTATION) is in https://in.docworkspace.com/d/sIJup3KKWAdCe9bQG
+
+
+#### Tech stack used 
+# Mern stack 
+# React and ui library for frontend
+# Node , express and Mongodb for Backend
+# Cloudinary for Image and video storage
+
+Postman Workspace link - 
